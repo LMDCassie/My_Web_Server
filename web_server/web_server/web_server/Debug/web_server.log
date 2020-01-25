@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\cassie\desktop\web_server\web_server\web_server\main.cpp(79): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\cassie\desktop\web_server\web_server\web_server\main.cpp(141): warning C4018: '<=': signed/unsigned mismatch
+  web_server.vcxproj -> C:\Users\Cassie\Desktop\web_server\web_server\Debug\web_server.exe
